@@ -13,7 +13,7 @@ A fast, private desktop app for students: your PDF on the left, a rich note page
 ![Platform](https://img.shields.io/badge/platform-macOS-lightgrey?logo=apple)
 ![License](https://img.shields.io/badge/license-MIT-blue)
 
-<img src="docs/screenshots/light.png" alt="Scholia in light theme" width="900">
+<img src="light.png" alt="Scholia in light theme" width="900">
 
 </div>
 
@@ -64,7 +64,7 @@ Scholia gives every PDF page its own linked note page, so the slide and your exp
 
 | Light | Dark |
 |:---:|:---:|
-| <img src="docs/screenshots/light.png" alt="Light theme" width="440"> | <img src="docs/screenshots/dark.png" alt="Dark theme" width="440"> |
+| <img src="light.png" alt="Light theme" width="440"> | <img src="docs/screenshots/dark.png" alt="Dark theme" width="440"> |
 
 ## Installation
 
