@@ -64,7 +64,7 @@ Scholia gives every PDF page its own linked note page, so the slide and your exp
 
 | Light | Dark |
 |:---:|:---:|
-| <img src="light.png" alt="Light theme" width="440"> | <img src="docs/screenshots/dark.png" alt="Dark theme" width="440"> |
+| <img src="light.png" alt="Light theme" width="440"> | <img src="dark.png" alt="Dark theme" width="440"> |
 
 ## Installation
 
