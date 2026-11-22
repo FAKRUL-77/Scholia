@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/Scholia.png" alt="Scholia app icon" width="128">
+<img src="scholia.png" alt="Scholia app icon" width="128">
 
 # Scholia
 
